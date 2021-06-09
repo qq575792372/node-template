@@ -1,0 +1,5 @@
+{
+  "watch": ["env", "server", "src"],
+  "ext": "js json html",
+  "ignore": ["src/icons", "scr/libs"]
+}
